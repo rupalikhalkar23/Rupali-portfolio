@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 import { FileText } from "lucide-react";
 import { useEffect, useState } from "react";
-import profilePhoto from "@/assets/profile_photo.jpeg";
+import profilePhoto from "@/assets/profile_photo.png";
 
 const roles = ["Python Developer", "AI/ML Enthusiast", "Full Stack Developer"];
 
